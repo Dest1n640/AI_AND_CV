@@ -1,5 +1,10 @@
+# files:
 Homework
 06_CNN/tmp
+.vscode
+.venv
+heic
+
 ### macOS ###
 # General
 .DS_Store
