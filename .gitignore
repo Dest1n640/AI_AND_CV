@@ -52,3 +52,9 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+*.zip
+*.pth
+*.onnx
+09_EfficientNet/dataset/
+07_LeNet5/data/
+__pycache__/
