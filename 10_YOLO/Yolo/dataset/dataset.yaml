@@ -1,0 +1,8 @@
+names:
+  0: cube
+  1: neither
+  2: sphere
+nc: 3
+path: /Users/dest1n/Studies/AI_and_CV/10_YOLO/Yolo/dataset
+train: /Users/dest1n/Studies/AI_and_CV/10_YOLO/Yolo/dataset/images/train
+val: /Users/dest1n/Studies/AI_and_CV/10_YOLO/Yolo/dataset/images/val
