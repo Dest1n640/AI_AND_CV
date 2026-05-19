@@ -58,3 +58,5 @@ pip-selfcheck.json
 09_EfficientNet/dataset/
 07_LeNet5/data/
 __pycache__/
+14_transformers/data/
+*.tar.gz
